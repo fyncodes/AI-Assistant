@@ -1,3 +1,14 @@
 
 face_data.pkl
 faces_data.pkl
+face_data.pkl
+faces_data.pkl
+chromedriver/
+
+.idea/
+
+__pycache__/
+.idea/
+chromedriver/
+face_data.pkl
+faces_data.pkl
